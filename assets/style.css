@@ -4,5 +4,71 @@ body{
     font-size:16px;
 }
 
+footer{
+    text-align:center;
+    background: grey;
+    margin:0 auto;
+    width:100%;
+    color: #cccccc;
+    height:5%;
+}
 
+.navcolor{
+    background: dodgerblue;
+}
+.foot{
+   margin: 0 5%;
+}
+.marginbiotop{
+    margin-top:2%;
+}
+.bimage{
+    background: url("../assets/images/just-waves.png");
+}
+.social{
+    text-align:center;
+    
+}
+.sochead{
+    float:left;
+    font-size:18px;
+    color:tan;
+    font-weight:bold;
+    background:navy;
+    border: 2px solid gold;
+    padding: 20px;
+    margin: 0 auto;
+    text-align:right;
+    
+}
+.portimage{
+    width:150px;
+    
+    position: relative;
+    display: inline;
+    margin:5px;
+    /* width:100px;
+    z-index:0; */
+}
+.portbox{
+    top:20px;
+    width:150px;
+    height:20px;
+    margin-top:35px;
+    margin-left:5px;
+    position: absolute;
+    background-color:dodgerblue;
+    display:block;
+    color:#fff;
+    text-align:center;
+}
+.formtext{
+    font-weight:bold;
+}
 
+.texthead{
+    font-size:20px;
+    color:dodgerblue;
+    font-weight:bold;
+   
+}
